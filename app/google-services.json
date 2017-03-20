@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "939255326608",
+    "firebase_url": "https://instantchat-182db.firebaseio.com",
+    "project_id": "instantchat-182db",
+    "storage_bucket": "instantchat-182db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939255326608:android:dc58ced0485e2f73",
+        "android_client_info": {
+          "package_name": "com.example.android.instantchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939255326608-rnl5m7ocmbbl9tvmcssjr09rbklmugst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.instantchat",
+            "certificate_hash": "20E5AE5F4DED3C8930ED0437F5DA20C0993EACF6"
+          }
+        },
+        {
+          "client_id": "939255326608-eo7vsgccdnmis40b50okpf3gvststlin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCij2yGcn4tbabr4WwHVGM1CN0JLMegttM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939255326608-eo7vsgccdnmis40b50okpf3gvststlin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
